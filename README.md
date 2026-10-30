@@ -10,6 +10,6 @@ Desenvolver soluções de software personalizadas, seguras e escaláveis que sim
 - **Local:** Centro, Piripiri, PI - CEP 64260-000
 
 ## Equipe
-- **Wanderson de Vasconcelos** — CEO e Engenheiro de Software
+- **Akiles Ribeiro Moura** — CEO e Engenheiro de Software
 - **Sheldon Cooper** — Especialista Full Stack
 - **Amy Farrah Fowler** — Especialista em Bancos de Dados
