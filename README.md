@@ -3,7 +3,9 @@
 > Tecnologia que evolui com o seu negócio.
 
 ## Sobre a Empresa
-Desenvolver soluções de software personalizadas, seguras e escaláveis que simplifiquem processos, aumentem a produtividade e impulsionem o crescimento dos nossos clientes.
+Desenvolver soluções de software personalizadas, seguras e escaláveis que
+simplifiquem processos, aumentem a produtividade e impulsionem o crescimento
+dos nossos clientes.
 
 ## Localização
 - **Endereço:** Rua Coronel Simplício, 250, Sala 12
