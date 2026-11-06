@@ -37,21 +37,21 @@ export const empresa = {
   equipe: [
     {
       nome: "Wanderson de Vasconcelos",
-      cargo: "Especialista Full Stack (Bazinga!)",
+      cargo: "Dono de TUDO",
       foto: "/images/wanderson.jpg",
       alt: "Foto de Wanderson de Vasconcelos",
       descricao: "Fundador da TED System, começou desenvolvendo sistemas de gestão para comércios locais do interior do Nordeste."
     },
     {
       nome: "Sheldon Cooper",
-      cargo: "Especialista Full Stack",
+      cargo: "Especialista em falar besteira",
       foto: "/images/sheldon.jpg",
       alt: "Foto de Sheldon Cooper",
       descricao: "Especialista em desenvolvimento Full Stack, chegou para ampliar a capacidade de entrega da empresa."
     },
     {
       nome: "Amy Farrah Fowler",
-      cargo: "Especialista em Bancos de Dados",
+      cargo: "Especialista em proteger bancos de dados(ja que o Sheldon não sabe fazer isso)",
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
