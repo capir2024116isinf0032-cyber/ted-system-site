@@ -50,3 +50,26 @@ const anoAtual = new Date().getFullYear();
   }
 
   .rodape-marca p,
+  .rodape-contato p {
+    color: var(--cor-texto-invertido-suave);
+    font-size: 0.875rem;
+    margin-bottom: 0.25rem;
+  }
+
+  .links-contato {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-top: 1rem;
+  }
+
+  .links-contato a {
+    color: var(--cor-texto-invertido);
+    text-decoration: none;
+  }
+
+  .links-contato a:hover {
+    color: var(--cor-texto-invertido-suave);
+    text-decoration: underline;
+  }
+</style>
