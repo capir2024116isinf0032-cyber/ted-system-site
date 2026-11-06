@@ -11,6 +11,12 @@ export const empresa = {
     {
       titulo: "Excelência técnica",
       descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
+      
+    },
+    {
+      titulo: "Etica",
+      descricao: "agir com responsabilidade, transparência e respeito."
+      
     },
     {
       titulo: "Transparência e parceria",
@@ -55,6 +61,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+  nome: "Penny",
+  cargo: "Especialista em testar a paciência da equipe",
+  foto: "/images/penny.jpg",
+  alt: "Foto de Penny",
+  descricao: "Responsável por trazer uma visão prática para a equipe e provar que nem tudo precisa de um doutorado para funcionar."
     }
   ]
 };
